@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe quatre outils essentiels pour automatiser la reconnaissance réseau et web. Chaque script est optimisé pour fournir un résultat clair, sans informations superflues.
 
-## 1. Scan de Ports Rapide (nmap_sript.sh)
+## 1. Scan de Ports Rapide (nmap_script.sh)
 Ce script automatise la découverte des ports ouverts sur une machine cible comme Kioptrix. Il demande l'adresse IP à l'utilisateur pour une flexibilité totale. Le résultat final affiche uniquement une liste de ports séparés par des virgules.
 
 ## 2. Gobuster Fichiers Cachés (gobuster_script.sh)
