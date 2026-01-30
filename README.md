@@ -20,4 +20,4 @@ Il s'agit d'une version avancée proposant un menu interactif entre Gobuster et 
 chmod +x *.sh
 
 ### Exemple d'utilisation
-./scanner_menu.sh
+./nmap_script.sh
