@@ -1,4 +1,4 @@
-# Script_automatisation_scan_groupe04
+# Script_automatisation_scan
 
 Ce dépôt regroupe quatre outils essentiels pour automatiser la reconnaissance réseau et web. Chaque script est optimisé pour fournir un résultat clair, sans informations superflues.
 
